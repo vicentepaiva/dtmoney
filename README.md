@@ -8,8 +8,8 @@ This aplication is a personal finance manager.
 # Secreenshots
 
 
-Captura de Tela 2022-02-13 às 16.59.16.png
-Captura de Tela 2022-02-13 às 17.00.24.png
+#Captura de Tela 2022-02-13 às 16.59.16.png
+#Captura de Tela 2022-02-13 às 17.00.24.png
 
 
 # Features
@@ -35,7 +35,7 @@ Before starting, you need to install git and node.
 # Starting
 
 # Clone this project
-$ git clone https://github.com/davi1985/dtmoney
+$ git clone http://github.com/vicentepaiva/dtmoney
 
 # Access
 $ cd dtmoney
